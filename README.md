@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi there 
 
 #### I'm Zhuoran Wang.
 
@@ -11,6 +11,6 @@
   
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=wang-zhuoran)]()
 
-### 🎯 Plan for 2022
+## 🎯 Plan for 2022
 
 
