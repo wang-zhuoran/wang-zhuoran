@@ -1,16 +1,16 @@
 ### Hi there 👋
 
+#### I'm Zhuoran Wang.
 
-**wang-zhuoran/wang-zhuoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a student @ Fuzhou University & Maynooth Unversity
+- 👨‍🎓 Majoring in **Robotics** 
+- 🌱 I’m currently learning **Deep learning** & **Computational Neuronscience**
+- ✨ Java/Python/C/C++   Pytorch & Tensorflow
+- 📫 How to reach me: wangzhuoran200105@126.com
 
-Here are some ideas to get you started:
+  
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=wang-zhuoran)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🎯 Plan for 2022
+
 
