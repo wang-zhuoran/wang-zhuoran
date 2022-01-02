@@ -12,5 +12,15 @@
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=wang-zhuoran)]()
 
 ## 🎯 Plan for 2022
+- [ ] Build a Compiler
+- [ ] Build a Django Project
+- [ ] Learn Vim
+- [ ] Kaggle Competition
+- [ ] Finish VS265
+- [ ] Finish CSAPP
+- [ ] Read more books
+- [ ] Have a healthy life style
+- [ ] Learn some Philosophy
+- [ ] Think more!
 
 
