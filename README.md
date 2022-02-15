@@ -13,7 +13,7 @@
 
 ## 🎯 Plan for 2022
 - [ ] Build a Compiler
-- [ ] Build a Django Project
+- [ ] Build a SpringBoot+Vue Project
 - [ ] Learn Vim
 - [ ] Kaggle Competition
 - [ ] Finish VS265
