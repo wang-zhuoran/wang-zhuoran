@@ -13,11 +13,15 @@
 
 ## 🎯 Plan for 2022
 - [ ] Build a Compiler
+- [ ] Read the source code of MINIX
 - [ ] Build a SpringBoot+Vue Project
 - [ ] Learn Vim
 - [ ] Kaggle Competition
 - [ ] Finish VS265
 - [ ] Finish CSAPP
+- [ ] Computer Organization from Peiking University
+- [ ] Discrete Mathematics from Peiking University
+- [ ] MIPS Assembly
 - [ ] Read more books
 - [ ] Have a healthy life style
 - [ ] Learn some Philosophy
