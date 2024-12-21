@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently a student @ TU Delft
 - 👨‍🎓 Majoring in **Computer Engineering** 
-- 🌱 I’m currently learning **Deep learning** & **Computational Neuronscience** & **Computer System**
-- ✨ Java/Python/C/C++/Rust/Golang   Pytorch & Tensorflow
+- 🌱 I’m currently learning **AI/LLM** & MLSys & **Computer System**
+- ✨ Java/Python/C/C++/Rust/Golang/Pytorch
 - 📫 How to reach me: wangzhuoran200105@126.com
 
   
